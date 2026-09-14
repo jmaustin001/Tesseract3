@@ -1,0 +1,14 @@
+{
+  "fiscalYear": 2026,
+  "effective": "2025-10-01",
+  "expires": "2026-09-30",
+  "source": "GSA FY2026 per diem bulletin",
+  "note": "M&IE tiers for CONUS. Verify a specific locality at gsa.gov/perdiem.",
+  "tiers": [
+    { "total": 68, "breakfast": 16, "lunch": 19, "dinner": 28, "incidental": 5 },
+    { "total": 74, "breakfast": 18, "lunch": 20, "dinner": 31, "incidental": 5 },
+    { "total": 80, "breakfast": 20, "lunch": 22, "dinner": 33, "incidental": 5 },
+    { "total": 86, "breakfast": 21, "lunch": 23, "dinner": 37, "incidental": 5 },
+    { "total": 92, "breakfast": 23, "lunch": 26, "dinner": 38, "incidental": 5 }
+  ]
+}
